@@ -1,7 +1,5 @@
 # scuomstv client patch distribution
 
-This repository currently hosts **synthetic patcher tests only**. No production MapleStory2 patch or dye patch has been published.
-
 - `channels/stable.json`: latest cumulative test release (v3).
 - `patcher-test-v1`: initial test release and frozen v1 channel.
 - `patcher-test-v3`: latest test rules and binary payloads.
