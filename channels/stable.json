@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "releaseTag": "patcher-test-v3",
+  "releaseTag": "client-baseline-0000",
   "manifestAsset": "release.json",
-  "manifestSha256": "f5f045ea4762dc3988c0dbf1398c929aab24b25602fe32b6cf9b28b577d1d08f"
+  "manifestSha256": "fc4d09a84b71f63c32271bceb9d770f878024188d24a524220d3dc07a2de4d00"
 }
