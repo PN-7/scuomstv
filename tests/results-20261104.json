@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "repository": "https://github.com/PN-7/scuomstv",
+  "patcherExeSha256": "2e366cc32303aa26fe8ae99ccccd09a5a6a6cd8d66c41a7de1b09e0d9dd7b83f",
+  "direct1to3": true,
+  "version2Published": false,
+  "changedPayloadsDownloadedDuring1to3": 1,
+  "unchangedCommonRewritten": false,
+  "repeatPayloadDownloads": 0,
+  "rollback3to1toOriginal": true,
+  "finalVersion": 3,
+  "productionOrDyeFiles": false,
+  "date": "2026-11-04",
+  "baselineDownload": {
+    "url": "https://github.com/PN-7/scuomstv/releases/download/patcher-test-v1/test-client-baseline.zip",
+    "sha256": "1565ad0b502c7f8eb1535f6fd5eaf63fa0a488bacf4506129f9303cd34886e82",
+    "redirected": true
+  },
+  "scope": "Anonymous public GitHub downloads on the development PC; synthetic text fixtures only. No real client, dye/outfit patch, game login, or other-PC validation."
+}
