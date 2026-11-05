@@ -1,11 +1,12 @@
 # Patcher
 
-[다운로드](https://github.com/PN-7/scuomstv/releases/tag/patcher-v1.2.0)
+[Download](https://github.com/PN-7/scuomstv/releases/download/client-20261105-0001/Patcher-Bootstrap-win-x64-1.3.0.zip) · [Release and checksums](https://github.com/PN-7/scuomstv/releases/tag/client-20261105-0001)
 
-1. 실행 ZIP을 설치 폴더의 `Tools/Patcher`에 풉니다.
-2. `Patcher.exe install "설치 폴더의 전체 경로"`를 실행합니다.
-3. 이후 기존 `Open-Launcher.cmd`를 사용합니다.
+1. Extract the complete ZIP into a new folder.
+2. On a new PC, install the included `VC_redist.x64.exe`.
+3. Run `Start.cmd`. Initial files and required updates are downloaded automatically before launch.
+4. Follow `START-HERE.txt` to select the installation folder and enter the connection settings.
 
-업데이트 확인 후 런처가 시작됩니다. 실패하면 실행을 중단합니다. 현재 운영 채널에는 배포된 패치가 없습니다.
+Keep at least 50GB free. The initial download is approximately 11.89GB, followed by approximately 1.86GB of updates. Later runs download only required updates.
 
-실행 파일·런타임·설정을 함께 보관하세요. 원래 실행 경로는 `Backups/PatcherEntry-*`에 보관됩니다. 파일별 보존 목록은 릴리스의 `FILES.txt`, 소스와 라이선스는 source ZIP에 있습니다.
+Existing 1.2 users should use the current bundle. Keep the executable, runtime files and settings together. Source and licenses are included in the ZIP and the corresponding source asset.

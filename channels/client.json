@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "releaseTag": "client-baseline-0000",
+  "releaseTag": "client-20261105-0001",
   "manifestAsset": "release.json",
-  "manifestSha256": "fc4d09a84b71f63c32271bceb9d770f878024188d24a524220d3dc07a2de4d00"
+  "manifestSha256": "c9e36fa7a4b54659b6c46a0e88e24f508a8fef747a3235bc066cda19abe8d300"
 }
